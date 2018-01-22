@@ -11,6 +11,7 @@ Language=**English**    => Will be shown in Settings dialog
 LanguageID=$**0409**    => !important, must be changed to the value list in LCID section  
 Version=**1.2.0.0**  
 Author=**Yubsoft**      => Translator name
+
 [DIALOG_1]  
 0=**General**  
 3=**&Language:**  
