@@ -146,7 +146,7 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Belarussian</td>
     <td>Belarussian</td>
-    <td>(0423, BEL)</td>
+    <td>(0423; BEL)</td>
   </tr>
   <tr> 
     <td>Bengali</td>
@@ -156,7 +156,7 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Bulgarian</td>
     <td>Bulgarian</td>
-    <td>(0402, BGR)</td>
+    <td>(0402; BGR)</td>
   </tr>
   <tr> 
     <td>Catalan</td>
@@ -281,12 +281,12 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Estonian</td>
     <td>Estonian</td>
-    <td>(0425, ETI)</td>
+    <td>(0425; ETI)</td>
   </tr>
   <tr> 
     <td>Faeroese</td>
     <td>Faeroese</td>
-    <td>(0438, FOS)</td>
+    <td>(0438; FOS)</td>
   </tr>
   <tr> 
     <td>Farsi</td>
@@ -441,17 +441,17 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Latvian</td>
     <td>Latvian</td>
-    <td>(0426, LVI)</td>
+    <td>(0426; LVI)</td>
   </tr>
   <tr> 
     <td>Lithuanian</td>
     <td>Lithuanian</td>
-    <td>(0427, LTH)</td>
+    <td>(0427; LTH)</td>
   </tr>
   <tr> 
     <td>Lithuanian</td>
     <td>Lithuanian (Classic)</td>
-    <td>(0827, LTH)</td>
+    <td>(0827; LTH)</td>
   </tr>
   <tr> 
     <td>FYOR Macedonian</td>
@@ -531,12 +531,12 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Romanian</td>
     <td>Romanian</td>
-    <td>(0418, ROM)</td>
+    <td>(0418; ROM)</td>
   </tr>
   <tr> 
     <td>Romanian</td>
     <td>Romanian (Moldova)</td>
-    <td>(0818, ROV)</td>
+    <td>(0818; ROV)</td>
   </tr>
   <tr> 
     <td>Russian</td>
@@ -546,7 +546,7 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Russian</td>
     <td>Russian (Moldova)</td>
-    <td>(0819, RUM)</td>
+    <td>(0819; RUM)</td>
   </tr>
   <tr> 
     <td>Sami</td>
@@ -581,12 +581,12 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Slovenian</td>
     <td>Slovenian</td>
-    <td>(0424, SLV)</td>
+    <td>(0424; SLV)</td>
   </tr>
   <tr> 
     <td>Sorbian</td>
     <td>Sorbian</td>
-    <td>(042e, SBN)</td>
+    <td>(042e; SBN)</td>
   </tr>
   <tr> 
     <td>Spanish</td>
@@ -686,7 +686,7 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Spanish</td>
     <td>Spanish (Puerto Rico)</td>
-    <td>(500a; ESU</td>
+    <td>(500a; ESU)</td>
   </tr>
   <tr> 
     <td>Sutu</td>
@@ -746,7 +746,7 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
   <tr> 
     <td>Ukrainian</td>
     <td>Ukrainian</td>
-    <td>(0422, UKR)</td>
+    <td>(0422; UKR)</td>
   </tr>
   <tr> 
     <td>Urdu</td>
