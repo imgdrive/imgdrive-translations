@@ -5,16 +5,16 @@ ImgDrive use binary format file of language file like IMGDRIVE_XXX.lng, which is
 
 # Translate Step
 1. Search LCID from LCID table below, copy file IMGDRIVE_ENG.ini with new name IMGDRIVE_[LCID].ini
-2. Translate
+2. Translate strings after '=' character
     <pre>
     [INFO]
-    Language=**English**    ; Will be shown in Settings dialog
-    LanguageID=$**0409**    ; !important, must be changed to the value list in LCID section  
-    Version=**1.2.0.0**
-    Author=**Yubsoft**      ; Translator name
+    Language=English    ; Will be shown in Settings dialog
+    LanguageID=$0409    ; !important, must be changed to the value list in LCID section  
+    Version=1.2.0.0
+    Author=             ; Translator name
     [DIALOG_1]  
-    0=**General**  
-    3=**&Language:**  
+    0=General  
+    3=&Language:
     ...
     </pre>
 3. Double click ini2lng to translate IMGDRIVE_XXX.ini to IMGDRIVE_XXX.lng
