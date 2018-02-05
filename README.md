@@ -4,12 +4,14 @@ ImgDrive use binary format file of language file like IMGDRIVE_XXX.lng, which is
 Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Maintainer</th><th align=left>Version</th><th align=left>Comments</th></tr>
-    <tr><td>Japanese</td><td>r4.revolution</td><td>1.2.0</td><td></td></tr>
-    <tr><td>Swedish</td><td>eson57</td><td>1.2.0</td><td></td></tr>
+    <tr><td>English</td><td>yubsoft</td><td>1.3.2</td><td></td></tr>
+    <tr><td>Japanese</td><td>Pentive</td><td>1.2.0</td><td></td></tr>
+    <tr><td>Swedish</td><td>Åke Engelbrektson</td><td>1.2.0</td><td></td></tr>
     <tr><td>Spanish</td><td>c-sanchez</td><td>1.2.0</td><td></td></tr>
-    <tr><td>Slovak</td><td>MatejGolian</td><td>1.2.0</td><td></td></tr>
+    <tr><td>Slovak</td><td>Matej Golian</td><td>1.2.0</td><td></td></tr>
     <tr><td>French</td><td>paulot</td><td>1.2.0</td><td></td></tr>
-    <tr><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.2.0</td><td></td></tr>
+    <tr><td>Portuguese</td><td>Carlos B. Jorge</td><td>1.2.0</td><td></td></tr>
+    <tr><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.3.2</td><td></td></tr>
     <tr><td>Arabic</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>Chinese (Taiwan)</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>German</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
