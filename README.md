@@ -10,7 +10,7 @@ Maintainer
     <tr><td>Spanish</td><td>c-sanchez</td><td>1.2.0</td><td></td></tr>
     <tr><td>Slovak</td><td>Matej Golian</td><td>1.2.0</td><td></td></tr>
     <tr><td>French</td><td>paulot</td><td>1.2.0</td><td></td></tr>
-    <tr><td>Portuguese</td><td>Carlos B. Jorge</td><td>1.2.0</td><td></td></tr>
+    <tr><td>Portuguese</td><td>Carlos B. Jorge</td><td>1.3.2</td><td></td></tr>
     <tr><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.3.2</td><td></td></tr>
     <tr><td>Arabic</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>Chinese (Taiwan)</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
