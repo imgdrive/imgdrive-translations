@@ -7,7 +7,7 @@ Maintainer
     <tr><td>English</td><td>yubsoft</td><td>1.3.2</td><td></td></tr>
     <tr><td>Japanese</td><td>Pentive</td><td>1.2.0</td><td></td></tr>
     <tr><td>Swedish</td><td>Åke Engelbrektson</td><td>1.2.0</td><td></td></tr>
-    <tr><td>Spanish</td><td>c-sanchez</td><td>1.2.0</td><td></td></tr>
+    <tr><td>Spanish</td><td>Carlos Sánchez</td><td>1.3.2</td><td></td></tr>
     <tr><td>Slovak</td><td>Matej Golian</td><td>1.2.0</td><td></td></tr>
     <tr><td>French</td><td>paulot</td><td>1.2.0</td><td></td></tr>
     <tr><td>Portuguese</td><td>Carlos B. Jorge</td><td>1.3.2</td><td></td></tr>
