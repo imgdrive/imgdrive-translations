@@ -5,7 +5,7 @@ Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Maintainer</th><th align=left>Version</th><th align=left>Comments</th></tr>
     <tr><td>English</td><td>yubsoft</td><td>1.3.2</td><td></td></tr>
-    <tr><td>Japanese</td><td>Pentive</td><td>1.2.0</td><td></td></tr>
+    <tr><td>Japanese</td><td>Pentive</td><td>1.3.2</td><td></td></tr>
     <tr><td>Swedish</td><td>Åke Engelbrektson</td><td>1.2.0</td><td></td></tr>
     <tr><td>Spanish</td><td>Carlos Sánchez</td><td>1.3.2</td><td></td></tr>
     <tr><td>Slovak</td><td>Matej Golian</td><td>1.2.0</td><td></td></tr>
