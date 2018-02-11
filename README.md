@@ -12,11 +12,11 @@ Maintainer
     <tr><td>French</td><td>paulot</td><td>1.2.0</td><td></td></tr>
     <tr><td>Portuguese</td><td>Carlos B. Jorge</td><td>1.3.2</td><td></td></tr>
     <tr><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.3.2</td><td></td></tr>
+    <tr><td>Italian</td><td>Gokronikos</td><td>1.2.0</td><td></td></tr>
     <tr><td>Arabic</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>Chinese (Taiwan)</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>German</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>Hungarian</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
-    <tr><td>Italian</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>Korean</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>Polish</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
     <tr><td>Portuguese (Brazil)</td><td>Google bot</td><td>1.2.0</td><td>Need a maintainer</td></tr>
