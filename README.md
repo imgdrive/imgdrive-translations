@@ -22,7 +22,7 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
 # Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Maintainer</th><th align=left>Version</th><th align=left>Comments</th></tr>
-    <tr><td>English</td><td>yubsoft</td><td>1.3.4</td><td></td></tr>
+    <tr><td>English</td><td>yubsoft</td><td>1.3.8</td><td></td></tr>
     <tr><td>Japanese</td><td>Pentive</td><td>1.3.4</td><td></td></tr>
     <tr><td>Swedish</td><td>Åke Engelbrektson</td><td>1.2.0</td><td></td></tr>
     <tr><td>Spanish</td><td>Carlos Sánchez</td><td>1.3.4</td><td></td></tr>
@@ -30,8 +30,8 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
     <tr><td>French</td><td>paulot</td><td>1.3.4</td><td></td></tr>
     <tr><td>Portuguese</td><td>Carlos B. Jorge</td><td>1.3.4</td><td></td></tr>
     <tr><td>Italian</td><td>Gokronikos</td><td>1.3.4</td><td></td></tr>
-    <tr><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.3.4</td><td></td></tr>
-    <tr><td>Chinese (Taiwan)</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
+    <tr><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.3.8</td><td></td></tr>
+    <tr><td>Chinese (Taiwan)</td><td>Google Translate</td><td>1.3.8</td><td>need translators</td></tr>
     <tr><td>Arabic</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>German</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>Hungarian</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
