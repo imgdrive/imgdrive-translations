@@ -32,13 +32,13 @@ If all goes well, the new translated language will be listed in ImgDrive's setti
     <tr><td>Italian</td><td>Gokronikos</td><td>1.3.4</td><td></td></tr>
     <tr><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.3.8</td><td></td></tr>
     <tr><td>Chinese (Taiwan)</td><td>Google Translate</td><td>1.3.8</td><td>need translators</td></tr>
+    <tr><td>Russian</td><td>Yuri Oldman</td><td>1.3.8</td><td></td></tr>
     <tr><td>Arabic</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>German</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>Hungarian</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>Korean</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>Polish</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>Portuguese (Brazil)</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
-    <tr><td>Russian</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
     <tr><td>Turkish</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
 </table>
 
