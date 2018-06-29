@@ -24,9 +24,9 @@
 # Translate Step
 Translate strings after '=' character in ImgDrive_END.ini, and send the file to support@yubsoft.com.
 
-Every translator will receive a free license key, I will notify all translators when add new strings.
+We will send email to all translators when has new strings need to be translated.
 
-We will send a license key to all translators, thanks for the contributions.
+Every translator will receive a free license key, thanks for your contribution.
 
 # Convert .ini to .lng
 1. Double click ini2lng, this will translate IMGDRIVE_XXX.ini to IMGDRIVE_XXX.lng
