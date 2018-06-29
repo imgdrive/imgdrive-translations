@@ -26,8 +26,8 @@ Translate strings after '=' character in ImgDrive_END.ini, and send the file to 
 
 Every translator will receive a free license key, I will notify all translators when add new strings.
 
-I will send license key to all translators, thanks for contributions.
+We will send a license key to all translators, thanks for the contributions.
 
-# Convert .ini to .lng:
+# Convert .ini to .lng
 1. Double click ini2lng, this will translate IMGDRIVE_XXX.ini to IMGDRIVE_XXX.lng
 2. Copy the Language\IMGDRIVE_XXX.lng to %ProgramFiles%\ImgDrive\Language\, then restart ImgDrive.
