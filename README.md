@@ -13,6 +13,10 @@
     <tr><td>&#x1F34E; Swedish</td><td>1.2.0</td><td>ImgDrive_SVE.ini</td><td>Åke Engelbrektson</td><td>Need Translators</td></tr>
 </table>
 
+&#x1F34F; Up to date<br>
+&#x1F34A; Not up to date<br>
+&#x1F34E; Broken, We need new translators
+
 # Translate Step
 Download [ImgDrive_END.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini), translate strings after '=' character, and send the file to support@yubsoft.com.
 
