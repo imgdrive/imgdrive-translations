@@ -22,7 +22,7 @@
 </table>
 
 # Translate Step
-Translate strings after '=' character in ImgDrive_END.ini, and send the file to support@yubsoft.com.
+Download [ImgDrive_END.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini), translate strings after '=' character, and send the file to support@yubsoft.com.
 
 We will send email to all translators when has new strings need to be translated.
 
