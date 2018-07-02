@@ -1,7 +1,7 @@
 # Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Version</th><th align=left>File Name</th><th align=left>Maintainer</th><th align=left>Comments</th></tr> 
-    <tr><td>&#x1F34F; English</td><td>1.3.8</td><td>ImgDrive_ENG.ini</td><td>Yang</td><td></td></tr>
+    <tr><td>&#x1F34F; English</td><td>1.3.8</td><td>ImgDrive_ENG.ini</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
     <tr><td>&#x1F34F; Japanese</td><td>1.3.8</td><td>ImgDrive_JPN.ini</td><td>Pentive</td><td></td></tr>
     <tr><td>&#x1F34A; Spanish</td><td>1.3.4</td><td>ImgDrive_SPA.ini</td><td>Carlos Sánchez</td><td></td></tr>
     <tr><td>&#x1F34F; Slovak</td><td>1.3.8</td><td>ImgDrive_SKY.ini</td><td>Matej Golian</td><td></td></tr>
@@ -18,7 +18,7 @@
 &#x1F34E; Broken, We need new translators
 
 # Translate Step
-Download [ImgDrive_END.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini), translate strings after '=' character, and send the file to support@yubsoft.com.
+Download [ImgDrive_END.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini)(right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
 
 We will send email to all translators when has new strings need to be translated.
 
