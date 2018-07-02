@@ -12,7 +12,7 @@
     <tr><td>&#x1F34F; Russian</td><td>1.3.8</td><td>ImgDrive_RUS.ini</td><td>Yuri Oldman</td><td></td></tr>
     <tr><td>&#x1F34E; Swedish</td><td>1.2.0</td><td>ImgDrive_SVE.ini</td><td>Åke Engelbrektson</td><td>Need Translators</td></tr>
 </table>
-[dvdforge](https://github.com/dvdforge)
+
 &#x1F34F; Up to date<br>
 &#x1F34A; Not up to date<br>
 &#x1F34E; Broken, We need new translators
