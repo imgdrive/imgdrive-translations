@@ -10,6 +10,7 @@
     <tr><td>&#x1F34F; Italian</td><td>1.3.8</td><td>ImgDrive_ITA.ini</td><td><a href="https://github.com/gokronikos">@gokronikos</a> <a href="https://github.com/bovirus">@bovirus</a></td><td></td></tr>
     <tr><td>&#x1F34F; Chinese (PRC)</td><td>1.3.8</td><td>ImgDrive_CHS.ini</td><td>Mark Zhang</td><td></td></tr>
     <tr><td>&#x1F34F; Russian</td><td>1.3.8</td><td>ImgDrive_RUS.ini</td><td><a href="https://github.com/oldman777">@oldman777</a></td><td></td></tr>
+    <tr><td>&#x1F34F; German</td><td>1.3.8</td><td>ImgDrive_DEU.ini</td><td>Roy Keller</td><td></td></tr>
     <tr><td>&#x1F34E; Swedish</td><td>1.2.0</td><td>ImgDrive_SVE.ini</td><td><a href="https://github.com/eson57">@eson57</a></td><td>Need Translators</td></tr>
 </table>
 
