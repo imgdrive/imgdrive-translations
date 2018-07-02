@@ -1,7 +1,6 @@
 # Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
-    <tr><th align=left>Language</th><th align=left>File Name</th><th align=left>Version</th><th align=left>Maintainer</th><th align=left>Comments</th></tr>
-    
+    <tr><th align=left>Language</th><th align=left>File Name</th><th align=left>Version</th><th align=left>Maintainer</th><th align=left>Comments</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.3.8</td><td>ImgDrive_ENG.ini</td><td>yubsoft</td><td></td></tr>
     <tr><td>&#x1F34F; Japanese</td><td>1.3.8</td><td>ImgDrive_JPN.ini</td><td>Pentive</td><td></td></tr>
     <tr><td>&#x1F34A; Spanish</td><td>1.3.4</td><td>ImgDrive_SPA.ini</td><td>Carlos Sánchez</td><td></td></tr>
