@@ -1,24 +1,17 @@
 # Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
-    <tr><th align=left>File</th><th align=left>Language</th><th align=left>Maintainer</th><th align=left>Version</th><th align=left>Comments</th></tr>
-    <tr><td>ImgDrive_ENG.ini</td><td>English</td><td>yubsoft</td><td>1.3.8</td><td></td></tr>
-    <tr><td>ImgDrive_JPN.ini</td><td>Japanese</td><td>Pentive</td><td>1.3.8</td><td></td></tr>
-    <tr><td>ImgDrive_SPA.ini</td><td>Spanish</td><td>Carlos Sánchez</td><td>1.3.4</td><td></td></tr>
-    <tr><td>ImgDrive_SKY.ini</td><td>Slovak</td><td>Matej Golian</td><td>1.3.8</td><td></td></tr>
-    <tr><td>ImgDrive_FRA.ini</td><td>French</td><td>paulot</td><td>1.3.4</td><td></td></tr>
-    <tr><td>ImgDrive_PTG.ini</td><td>Portuguese</td><td>Carlos B. Jorge</td><td>1.3.4</td><td></td></tr>
-    <tr><td>ImgDrive_ITA.ini</td><td>Italian</td><td>Gokronikos & bovirus</td><td>1.3.8</td><td></td></tr>
-    <tr><td>ImgDrive_CHS.ini</td><td>Chinese (PRC)</td><td>Mark Zhang</td><td>1.3.8</td><td></td></tr>
-    <tr><td>ImgDrive_RUS.ini</td><td>Russian</td><td>Yuri Oldman</td><td>1.3.8</td><td></td></tr>
-    <tr><td>ImgDrive_SVE.ini</td><td>Swedish</td><td>Åke Engelbrektson</td><td>1.2.0</td><td>Need Translators</td></tr>
-    <!-- tr><td>ImgDrive_CHT.ini</td><td>Chinese (Taiwan)</td><td>Google Translate</td><td>1.3.8</td><td>need translators</td></tr>
-    <tr><td>ImgDrive_ARA.ini</td><td>Arabic</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
-    <tr><td>ImgDrive_DEU.ini</td><td>German</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
-    <tr><td>ImgDrive_HUN.ini</td><td>Hungarian</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
-    <tr><td>ImgDrive_KOR.ini</td><td>Korean</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
-    <tr><td>ImgDrive_PLK.ini</td><td>Polish</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
-    <tr><td>ImgDrive_PTB.ini</td><td>Portuguese (Brazil)</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr>
-    <tr><td>ImgDrive_TRK.ini</td><td>Turkish</td><td>Google Translate</td><td>1.3.4</td><td>need translators</td></tr -->
+    <tr><th align=left>Language</th><th align=left>File Name</th><th align=left>Version</th><th align=left>Maintainer</th><th align=left>Comments</th></tr>
+    
+    <tr><td>&#x1F34F; English</td><td>1.3.8</td><td>ImgDrive_ENG.ini</td><td>yubsoft</td><td></td></tr>
+    <tr><td>&#x1F34F; Japanese</td><td>1.3.8</td><td>ImgDrive_JPN.ini</td><td>Pentive</td><td></td></tr>
+    <tr><td>&#x1F34A; Spanish</td><td>1.3.4</td><td>ImgDrive_SPA.ini</td><td>Carlos Sánchez</td><td></td></tr>
+    <tr><td>&#x1F34F; Slovak</td><td>1.3.8</td><td>ImgDrive_SKY.ini</td><td>Matej Golian</td><td></td></tr>
+    <tr><td>&#x1F34A; French</td><td>1.3.4</td><td>ImgDrive_FRA.ini</td><td>paulot</td><td></td></tr>
+    <tr><td>&#x1F34A; Portuguese</td><td>1.3.4</td><td>ImgDrive_PTG.ini</td><td>Carlos B. Jorge</td><td></td></tr>
+    <tr><td>&#x1F34A; Italian</td><td>1.3.8</td><td>ImgDrive_ITA.ini</td><td>Gokronikos & bovirus</td><td></td></tr>
+    <tr><td>&#x1F34F; Chinese (PRC)</td><td>1.3.8</td><td>ImgDrive_CHS.ini</td><td>Mark Zhang</td><td></td></tr>
+    <tr><td>&#x1F34F; Russian</td><td>1.3.8</td><td>ImgDrive_RUS.ini</td><td>Yuri Oldman</td><td></td></tr>
+    <tr><td>&#x1F345; Swedish</td><td>1.2.0</td><td>ImgDrive_SVE.ini</td><td>Åke Engelbrektson</td><td>Need Translators</td></tr>
 </table>
 
 # Translate Step
