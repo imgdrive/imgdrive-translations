@@ -7,10 +7,10 @@
     <tr><td>&#x1F34F; Slovak</td><td>1.3.8</td><td>ImgDrive_SKY.ini</td><td>Matej Golian</td><td></td></tr>
     <tr><td>&#x1F34A; French</td><td>1.3.4</td><td>ImgDrive_FRA.ini</td><td>paulot</td><td></td></tr>
     <tr><td>&#x1F34A; Portuguese</td><td>1.3.4</td><td>ImgDrive_PTG.ini</td><td>Carlos B. Jorge</td><td></td></tr>
-    <tr><td>&#x1F34A; Italian</td><td>1.3.8</td><td>ImgDrive_ITA.ini</td><td>Gokronikos & bovirus</td><td></td></tr>
+    <tr><td>&#x1F34F; Italian</td><td>1.3.8</td><td>ImgDrive_ITA.ini</td><td>Gokronikos & bovirus</td><td></td></tr>
     <tr><td>&#x1F34F; Chinese (PRC)</td><td>1.3.8</td><td>ImgDrive_CHS.ini</td><td>Mark Zhang</td><td></td></tr>
     <tr><td>&#x1F34F; Russian</td><td>1.3.8</td><td>ImgDrive_RUS.ini</td><td>Yuri Oldman</td><td></td></tr>
-    <tr><td>&#x1F345; Swedish</td><td>1.2.0</td><td>ImgDrive_SVE.ini</td><td>Åke Engelbrektson</td><td>Need Translators</td></tr>
+    <tr><td>&#x1F34E; Swedish</td><td>1.2.0</td><td>ImgDrive_SVE.ini</td><td>Åke Engelbrektson</td><td>Need Translators</td></tr>
 </table>
 
 # Translate Step
