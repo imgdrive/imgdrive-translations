@@ -7,10 +7,10 @@
     <tr><td>&#x1F34F; Chinese (PRC)</td><td>1.4.0</td><td>ImgDrive_CHS.ini</td><td>Mark Zhang</td><td></td></tr>
     <tr><td>&#x1F34F; Italian</td><td>1.4.0</td><td>ImgDrive_ITA.ini</td><td><a href="https://github.com/bovirus">@bovirus</a> <a href="https://github.com/gokronikos">@gokronikos</a></td><td></td></tr>
     <tr><td>&#x1F34F; Slovak</td><td>1.4.0</td><td>ImgDrive_SKY.ini</td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td><td></td></tr>
+    <tr><td>&#x1F34F; Russian</td><td>1.4.0</td><td>ImgDrive_RUS.ini</td><td><a href="https://github.com/oldman777">@oldman777</a></td><td></td></tr>
     <tr><td>&#x1F34A; Spanish</td><td>1.3.4</td><td>ImgDrive_SPA.ini</td><td>Carlos Sánchez</td><td></td></tr>
     <tr><td>&#x1F34A; French</td><td>1.3.4</td><td>ImgDrive_FRA.ini</td><td>paulot</td><td></td></tr>
     <tr><td>&#x1F34A; Portuguese</td><td>1.3.4</td><td>ImgDrive_PTG.ini</td><td>Carlos B. Jorge</td><td></td></tr>
-    <tr><td>&#x1F34F; Russian</td><td>1.4.0</td><td>ImgDrive_RUS.ini</td><td><a href="https://github.com/oldman777">@oldman777</a></td><td></td></tr>
     <tr><td>&#x1F34E; Swedish</td><td>1.2.0</td><td>ImgDrive_SVE.ini</td><td></td><td>Need Translators</td></tr>
 </table>
 
@@ -19,7 +19,7 @@
 &#x1F34E; Broken, We need new translators
 
 # Translate Step
-Download [ImgDrive_END.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini)(right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
+Download [ImgDrive_ENG.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini) (right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
 
 We will send email to all translators when has new strings need to be translated.
 
