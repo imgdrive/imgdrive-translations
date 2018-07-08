@@ -8,6 +8,7 @@
     <tr><td>&#x1F34F; Italian</td><td>1.4.0</td><td>ImgDrive_ITA.ini</td><td><a href="https://github.com/bovirus">@bovirus</a> <a href="https://github.com/gokronikos">@gokronikos</a></td><td></td></tr>
     <tr><td>&#x1F34F; Slovak</td><td>1.4.0</td><td>ImgDrive_SKY.ini</td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td><td></td></tr>
     <tr><td>&#x1F34F; Russian</td><td>1.4.0</td><td>ImgDrive_RUS.ini</td><td><a href="https://github.com/oldman777">@oldman777</a></td><td></td></tr>
+    <tr><td>&#x1F34F; Korean</td><td>1.4.0</td><td>ImgDrive_KOR.ini</td><td><a href="http://www.kolanp.com">Jaehyung Lee</a></td><td></td></tr>
     <tr><td>&#x1F34A; Spanish</td><td>1.3.4</td><td>ImgDrive_SPA.ini</td><td>Carlos Sánchez</td><td></td></tr>
     <tr><td>&#x1F34A; French</td><td>1.3.4</td><td>ImgDrive_FRA.ini</td><td>paulot</td><td></td></tr>
     <tr><td>&#x1F34A; Portuguese</td><td>1.3.4</td><td>ImgDrive_PTG.ini</td><td>Carlos B. Jorge</td><td></td></tr>
