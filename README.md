@@ -1,7 +1,7 @@
 ﻿# Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Version</th><th align=left>File Name</th><th align=left>Maintainer</th><th align=left>Comments</th></tr> 
-    <tr><td>&#x1F34F; English</td><td>1.4.0</td><td>ImgDrive_ENG.ini</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
+    <tr><td>&#x1F34F; English</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENG.ini">ImgDrive_ENG.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
     <tr><td>&#x1F34F; Japanese</td><td>1.4.0</td><td>ImgDrive_JPN.ini</td><td><a href="https://github.com/Pentive">@Pentive</a></td><td></td></tr>
     <tr><td>&#x1F34F; German</td><td>1.4.0</td><td>ImgDrive_DEU.ini</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
     <tr><td>&#x1F34F; Chinese (PRC)</td><td>1.4.0</td><td>ImgDrive_CHS.ini</td><td>Mark Zhang</td><td></td></tr>
