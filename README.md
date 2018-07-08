@@ -19,7 +19,7 @@
 &#x1F34A; Not up to date<br>
 &#x1F34E; Broken, We need new translators
 
-# Translate Step
+# How to Translate
 Download [ImgDrive_ENG.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini) (right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
 
 We will send email to all translators when has new strings need to be translated.
