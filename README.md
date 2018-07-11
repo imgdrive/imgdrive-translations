@@ -22,9 +22,7 @@
 # How to Translate
 Download [ImgDrive_ENG.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini) (right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
 
-We will send email to all translators when has new strings need to be translated.
-
-Every translator will receive a free license key, thanks for your contribution.
+We will send email to all translators when there are strings need to be translated.
 
 # Convert .ini to .lng
 1. Double click ini2lng, this will translate IMGDRIVE_XXX.ini to IMGDRIVE_XXX.lng
