@@ -6,7 +6,7 @@
     <tr><td>&#x1F34F; German</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
     <tr><td>&#x1F34F; Chinese (PRC)</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>Mark Zhang</td><td></td></tr>
     <tr><td>&#x1F34F; Italian</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a> <a href="https://github.com/gokronikos">@gokronikos</a></td><td></td></tr>
-    <tr><td>&#x1F34F; Slovak</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td><td></td></tr>
+    <tr><td>&#x1F34F; Slovak</td><td>1.4.5</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td><td></td></tr>
     <tr><td>&#x1F34F; Russian</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td><a href="https://github.com/oldman777">@oldman777</a></td><td></td></tr>
     <tr><td>&#x1F34F; Korean</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td><a href="http://www.kolanp.com">Jaehyung Lee</a></td><td></td></tr>
     <tr><td>&#x1F34F; Spanish</td><td>1.4.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SPA.ini">ImgDrive_SPA.ini</a></td><td><a href="https://github.com/c-sanchez">@c-sanchez</a></td><td></td></tr>
@@ -22,7 +22,9 @@
 # How to Translate
 Download [ImgDrive_ENG.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini) (right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
 
-We will send email to all translators when there are strings need to be translated.
+We will send email to all translators when has new strings need to be translated.
+
+Every translator will receive a free license key, thanks for your contribution.
 
 # Convert .ini to .lng
 1. Double click ini2lng, this will translate IMGDRIVE_XXX.ini to IMGDRIVE_XXX.lng
