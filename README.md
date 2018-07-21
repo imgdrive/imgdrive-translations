@@ -1,4 +1,3 @@
-﻿# [Changelog](http://www.yubsoft.com/imgdrive/changelog_imgdrive_translations.htm)
  # Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Version</th><th align=left>File Name</th><th align=left>Maintainer</th><th align=left>Comments</th></tr> 
