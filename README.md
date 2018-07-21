@@ -27,3 +27,5 @@ I'm not a native English speaker, please feel free to review ImgDrive_ENG.ini, t
 # Convert .ini to .lng
 1. Double click ini2lng, this will translate IMGDRIVE_XXX.ini to IMGDRIVE_XXX.lng
 2. Copy the Language\IMGDRIVE_XXX.lng to %ProgramFiles%\ImgDrive\Language\, then restart ImgDrive.
+
+# Change log
