@@ -1,4 +1,5 @@
  # Maintainer
+ [Changelog](http://www.yubsoft.com/imgdrive/changelog_imgdrive_translations.htm)
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Version</th><th align=left>File Name</th><th align=left>Maintainer</th><th align=left>Comments</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.5.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENG.ini">ImgDrive_ENG.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
