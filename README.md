@@ -18,7 +18,7 @@
 
 &#x1F34F; Up to date<br>
 &#x1F34A; Not up to date<br>
-&#x1F34E; Broken, We need new translators
+&#x1F34E; No update for a long time, we need a translator
 
 # How to Translate
 Download [ImgDrive_ENG.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENG.ini) (right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
