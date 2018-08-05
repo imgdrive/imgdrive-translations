@@ -1,4 +1,5 @@
-﻿L"%s Setup", L"Install",
+﻿L"%s Setup",
+L"Install",
 L"Cancel",
 L"License Agreement",
 L"Please read the following important information before continuing",
