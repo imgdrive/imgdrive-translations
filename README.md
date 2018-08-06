@@ -1,6 +1,6 @@
  # Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
-    <tr><th align=left>Language</th><th align=left>Version</th><th align=left>Main File Name</th><th align=left>Setup File Name</th><th align=left>Maintainer</th><th align=left>Comments</th></tr> 
+    <tr><th align=left>Language</th><th align=left>Version</th><th align=left>Main File</th><th align=left>Setupldr File</th><th align=left>Maintainer</th><th align=left>Comments</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.7.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENG.ini">ImgDrive_ENG.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/ENG.txt">ENG.txt</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
     <tr><td>&#x1F34A; Japanese</td><td>1.4.5</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_JPN.ini">ImgDrive_JPN.ini</a><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/JPN.txt">JPN.txt</a></td></td><td><a href="https://github.com/Pentive">@Pentive</a></td><td></td></tr>
     <tr><td>&#x1F34A; German</td><td>1.6.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/DEU.txt">DEU.txt</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td><td></td></tr>
