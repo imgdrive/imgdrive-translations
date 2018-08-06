@@ -25,6 +25,8 @@ Download [ImgDrive_ENG.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_
 
 I'm not a native English speaker, please feel free to review ImgDrive_ENG.ini, to make it better.
 
-# Convert .ini to .lng
-1. Double click ini2lng, this will translate IMGDRIVE_XXX.ini to IMGDRIVE_XXX.lng
-2. Copy the Language\IMGDRIVE_XXX.lng to %ProgramFiles%\ImgDrive\Language\, then restart ImgDrive.
+# How to Use
+ImgDrive uses binary format language file(.lng) to improve performance. You can use ini2lng.exe to convert the plain text .ini to .lng.
+
+1. Double click ini2lng.exe, this will convert IMGDRIVE_???.ini to IMGDRIVE_???.lng in the same directory.
+2. Copy the Language\IMGDRIVE_???.lng to %ProgramFiles%\ImgDrive\Language\, then restart ImgDrive, the translated strings will be shown in ImgDrive if all goes well.
