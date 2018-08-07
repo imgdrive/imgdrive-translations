@@ -1,4 +1,4 @@
-L"Inštalácia %s",
+﻿L"Inštalácia %s",
 L"Inštalovať",
 L"Zrušiť",
 L"Licenčná dohoda",
