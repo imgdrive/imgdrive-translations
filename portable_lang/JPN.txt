@@ -1,31 +1,31 @@
-﻿L"ファイル",
-L"設定",
-L"言語",
-L"ヘルプ",
-L"マウント",
-L"マウント解除",
-L"Unmount All",
-L"Number of Drives",
-L"Hide Unmounted Drives",
-L"Stay on Top",
-L"Refresh",
-L"Homepage",
-L"Manual",
-L"Check for Update",
-L"Support",
-L"About",
-L"Open",
-L"Drive",
-L"Image Path",
-L"Install Driver",
-L"Uninstall Driver",
-L"Installing driver...\nThis can take up to 1 minute, please wait a moment.",
-L"ImgDrive will now install its driver, that is required to create virtual CD/DVD/BD drives. You can uninstall the driver at any moment using this program.\n\nDo you want to install it now?",
-L"There is a uncompatible kernel drive version %d.%d installed.\n\nDo you want to update it to version %d.%d?",
-L"You need to restart your computer to use ImgDrive.",
-L"Are you sure to uninstall driver?",
-L"This program is freeware, and will be totally free forever.",
-L"Acknowledgments",
-L"Caused by: %s\r\nReason: %s",
-L"Unrecognized media or invalid format.",
-L"Cannot open file:\n%s\n\n%s",
+L"ファイル"
+L"設定"
+L"言語"
+L"ヘルプ"
+L"マウス"
+L"マウス解除"
+L"すべてのマウントを解除"
+L"ドライブ数"
+L"マウントされていないドライブを隠す"
+L"最前面に表示"
+L"更新"
+L"ホームページ"
+L"マニュアル"
+L更新を確認する"
+L"サポート"
+L"詳細"
+L"開く
+L"ドライブ"
+L"イメージの場所"
+L"ドライバのインストール"
+L"ドライバのアンインストール"
+L"ドライバのインストール中...\nこれは1分ほどかかる場合があります...しばらくお待ちください..."
+L"ImgDriveは仮想 CD / DVD / BD ドライブの作成に必要なドライバをインストールします。このプログラムを使用して、いつでもドライバをアンインストールすることが可能です。\ n \ n今すぐインストールしますか？
+L"互換性のないカーネルドライブのバージョン %d.%d がインストールされています。\ n \ nバージョン %d.%d に更新しますか？"
+L"ImgDriveを使用するにはコンピュータを再起動する必要があります。"
+L"ドライバをアンインストールしてもよろしいですか？"
+L"このプログラムはフリーウェアで、永遠に無料で利用できます。"
+L"謝辞"
+L"原因： %s\r\n理由: %s"
+L"認識できないメディアまたは無効な形式です。"
+L"ファイルを開くことができません：\n%s\n\n%s"
