@@ -1,4 +1,4 @@
-L"File",
+﻿L"File",
 L"Opzioni",
 L"Lingua",
 L"?",
