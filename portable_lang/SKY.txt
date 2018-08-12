@@ -1,4 +1,4 @@
-L"Súbor",
+﻿L"Súbor",
 L"Nastavenia",
 L"Jazyk",
 L"Pomocník",
