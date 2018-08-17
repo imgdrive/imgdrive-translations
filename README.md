@@ -28,5 +28,5 @@ I'm not a native English speaker, please feel free to review ENG.ini, to make it
 # How to Use
 ImgDrive uses binary format language file(.lng) to improve performance. You can use ini2lng.exe to convert the plain text .ini to .lng.
 
-1. Double click ini2lng.exe, this will convert IMGDRIVE_???.ini to IMGDRIVE_???.lng in the same directory.
-2. Copy the Language\IMGDRIVE_???.lng to %ProgramFiles%\ImgDrive\Language\, then restart ImgDrive, the translated strings will be shown in ImgDrive if all goes well.
+1. Double click ini2lng.exe, this will convert all .ini files to .lng in the same directory.
+2. Copy Language\ folder to %ProgramFiles%\ImgDrive\Language\, then restart ImgDrive, the translated strings will be shown in ImgDrive if all goes well.
