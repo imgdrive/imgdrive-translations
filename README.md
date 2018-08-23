@@ -1,7 +1,7 @@
 # Maintainer
 <table border="0" cellpadding=5 cols=13 frame=below rules=rows>
     <tr><th align=left>Language</th><th align=left>Version</th><th align=left>Main</th><th align=left>Portable</th><th align=left>Installer</th><th align=left>Maintainer</th></tr> 
-    <tr><td>&#x1F34F; ENUlish</td><td>1.7.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ENU.ini">ENU.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/portable_lang/ENU.txt">ENU.txt</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/ENU.txt">ENU.txt</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; English</td><td>1.7.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ENU.ini">ENU.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/portable_lang/ENU.txt">ENU.txt</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/ENU.txt">ENU.txt</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Japanese</td><td>1.7.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/JPN.ini">JPN.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/portable_lang/JPN.txt">JPN.txt</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/JPN.txt">JPN.txt</a></td></td><td><a href="https://github.com/Pentive">@Pentive</a></td></tr>
     <tr><td>&#x1F34F; German</td><td>1.7.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/DEU.ini">DEU.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/portable_lang/DEU.txt">DEU.txt</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/DEU.txt">DEU.txt</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Russian</td><td>1.7.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/RUS.ini">RUS.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/portable_lang/RUS.txt">RUS.txt</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/setup_lang/RUS.txt">RUS.txt</a></td><td><a href="https://github.com/oldman777">@oldman777</a></td></tr>
@@ -23,10 +23,10 @@
 # How to Translate
 Download [ENU.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ENU.ini) (right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
 
-I'm not a native ENUlish speaker, please feel free to review ENU.ini, to make it better.
+I'm not a native English speaker, please feel free to review ENU.ini, to make it better.
 
 # How to Use
 ImgDrive uses binary format language file(.lng) to improve performance. You can use ini2lng.exe to convert the plain text .ini to .lng.
 
 1. Double click ini2lng.exe, this will convert all .ini files to .lng in the same directory.
-2. Copy Language\ folder to %ProgramFiles%\ImgDrive\Language\, then restart ImgDrive, the translated strings will be shown in ImgDrive if all goes well.
+2. Copy Lang\ folder to %ProgramFiles%\ImgDrive\Lang\, then restart ImgDrive, the translated strings will be shown in ImgDrive if all goes well.
