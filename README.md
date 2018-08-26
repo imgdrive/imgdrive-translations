@@ -23,7 +23,7 @@
 # How to Translate
 Download [ENU.ini](https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ENU.ini) (right click the link, save as), translate strings after '=' character, and send the file to support@yubsoft.com.
 
-I'm not a native English speaker, please feel free to review ENU.ini, to make it better.
+I'm not a native English speaker, please contact me for any grammatical or spelling mistakes in ENU.ini.
 
 # How to Use
 ImgDrive uses binary format language file(.lng) to improve performance. You can use ini2lng.exe to convert the plain text .ini to .lng.
