@@ -1,4 +1,4 @@
-# Maintainer
+## Maintainer
 <table>
     <tr><th>Language</th><th>Version</th><th>ImgDrive</th><th>ImgDrivePortable</th><th>Maintainer</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/ENU.ini">ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
@@ -10,7 +10,7 @@
     <tr><td>&#x1F34F; Slovak (Slovenčina)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/SKY.ini">SKY.ini</a></td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td></tr>
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/CHS.ini">CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Chinese (正體中文)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td></td><td>Ranma Kuo</td></tr>
-    <tr><td>&#x1F34F; Korean (한국어)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/KOR.ini">KOR.ini</a></td><td><a href="http://www.kolanp.com">Jaehyung Lee</a></td></tr>
+    <tr><td>&#x1F34F; Korean (한국어)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/KOR.ini"></a></td><td><a href="http://www.kolanp.com">Jaehyung Lee</a></td></tr>
     <tr><td>&#x1F34F; Polish (Polski)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/PLK.ini">PLK.ini</a></td><td><a href="https://github.com/Jarek63">@Jarek63</a></td></tr>
     <tr><td>&#x1F34F; Portuguese (Brazil)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/PTB.ini">PTB.ini</a></td><td>Marcelo V. Pita</td></tr>
     <tr><td>&#x1F34F; Finnish (suomi)</td><td>1.7.3</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrivePortable/FIN.ini">FIN.ini</a></td><td>Sampo Hippeläinen</td></tr>
@@ -19,9 +19,9 @@
 
 &#x1F34F; Up to date<br>
 &#x1F34A; Not up to date<br>
-&#x1F34E; No update for a long time
+&#x1F34E; Too old
 
-# How to Translate
+## How to Translate
 1. Copy file ImgDrive_ENU.ini, rename to ImgDrive_XXX.ini, replace XXX with new **Language code** can be found in **LCID - Locale identifier** below. 
 2. Translate strings after '=' character
     <pre>
@@ -38,7 +38,7 @@
     </pre>
 3. Copy the new language file to %ProgramFiles%\ImgDrive\language\, restart ImgDrive, select the new language in options dialog.
 
-# LCID - Locale identifier
+## LCID - Locale identifier
 <table>
   <tr> 
     <th>Primary Language</th>
