@@ -15,6 +15,7 @@
     <tr><td>&#x1F34F; Portuguese (Brazil)</td><td>1.7.7</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td></td><td>Marcelo V. Pita</td></tr>
     <tr><td>&#x1F34F; Finnish (suomi)</td><td>1.7.7</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>Sampo Hippeläinen</td></tr>
     <tr><td>&#x1F34F; French (Français)</td><td>1.7.7</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>Lederf</td></tr>
+    <tr><td>&#x1F34F; Ukrainian (Українська)</td><td>1.7.7</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>24cab</td></tr>
 </table>
 
 &#x1F34F; Up to date<br>
