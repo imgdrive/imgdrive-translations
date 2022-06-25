@@ -1,21 +1,21 @@
 ## Maintainer
 <table>
     <tr><th>Language</th><th>Version</th><th>File</th><th>Maintainer</th></tr> 
-    <tr><td>&#x1F34F; English</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Japanese (日本語)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td><a href="https://github.com/Pentive">@Pentive</a></td></tr>
-    <tr><td>&#x1F34F; German (Deutsch)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Russian (Русский)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td><a href="https://github.com/oldman777">@oldman777</a></td></tr>
-    <tr><td>&#x1F34F; Italian (Italiano)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a> <a href="https://github.com/gokronikos">@gokronikos</a></td></tr>
-    <tr><td>&#x1F34F; Spanish (Español)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td><a href="https://github.com/c-sanchez">@c-sanchez</a></td></tr>
-    <tr><td>&#x1F34F; Slovak (Slovenčina)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td></tr>
-    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
-    <tr><td>&#x1F34F; Chinese (正體中文)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>Ranma Kuo</td></tr>
-    <tr><td>&#x1F34F; Korean (한국어)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td><a href="http://www.kolanp.com">Jaehyung Lee</a></td></tr>
-    <tr><td>&#x1F34F; Polish (Polski)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td><a href="https://github.com/Jarek63">@Jarek63</a></td></tr>
-    <tr><td>&#x1F34F; Portuguese (Brazil)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td></td><td>Marcelo V. Pita</td></tr>
-    <tr><td>&#x1F34F; Finnish (suomi)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>Sampo Hippeläinen</td></tr>
-    <tr><td>&#x1F34F; French (Français)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>Lederf</td></tr>
-    <tr><td>&#x1F34F; Ukrainian (Українська)</td><td>1.7.8</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>24cab</td></tr>
+    <tr><td>&#x1F34F; English</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; Japanese (日本語)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td><a href="https://github.com/Pentive">@Pentive</a></td></tr>
+    <tr><td>&#x1F34F; German (Deutsch)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; Russian (Русский)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td><a href="https://github.com/oldman777">@oldman777</a></td></tr>
+    <tr><td>&#x1F34F; Italian (Italiano)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a> <a href="https://github.com/gokronikos">@gokronikos</a></td></tr>
+    <tr><td>&#x1F34F; Spanish (Español)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td><a href="https://github.com/c-sanchez">@c-sanchez</a></td></tr>
+    <tr><td>&#x1F34F; Slovak (Slovenčina)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td></tr>
+    <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
+    <tr><td>&#x1F34F; Chinese (正體中文)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>Ranma Kuo</td></tr>
+    <tr><td>&#x1F34F; Korean (한국어)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td><a href="http://www.kolanp.com">Jaehyung Lee</a></td></tr>
+    <tr><td>&#x1F34F; Polish (Polski)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td><a href="https://github.com/Jarek63">@Jarek63</a></td></tr>
+    <tr><td>&#x1F34F; Portuguese (Brazil)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td></td><td>Marcelo V. Pita</td></tr>
+    <tr><td>&#x1F34F; Finnish (suomi)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>Sampo Hippeläinen</td></tr>
+    <tr><td>&#x1F34F; French (Français)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>Lederf</td></tr>
+    <tr><td>&#x1F34F; Ukrainian (Українська)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>24cab</td></tr>
 </table>
 
 &#x1F34F; Up to date<br>
