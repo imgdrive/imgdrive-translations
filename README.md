@@ -17,6 +17,7 @@
     <tr><td>&#x1F34F; French (Français)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>Lederf</td></tr>
     <tr><td>&#x1F34F; Ukrainian (Українська)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>24cab</td></tr>
     <tr><td>&#x1F34F; Arabic (Jordan)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ARJ.ini">ImgDrive_ARJ.ini</a></td><td>فتحي الداودية</td></tr>
+    <tr><td>&#x1F34F; Swedish (Svenska)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
 </table>
 
 &#x1F34F; Up to date<br>
