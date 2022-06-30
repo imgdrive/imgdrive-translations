@@ -1,11 +1,13 @@
-## Maintainer
+## Translations
+Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@yubsoft.com.
+
 <table>
     <tr><th>Language</th><th>Version</th><th>File</th><th>Maintainer</th></tr> 
     <tr><td>&#x1F34F; English</td><td>1.8.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Arabic (عربي)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ARA.ini">ImgDrive_ARA.ini</a></td><td>فتحي الداودية</td></tr>
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.8.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34A; Chinese (正體中文)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>Ranma Kuo</td></tr>
-    <tr><td>&#x1F34A; Finnish (suomi)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>Sampo Hippeläinen</td></tr>
+    <tr><td>&#x1F34A; Finnish (Suomi)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>Sampo Hippeläinen</td></tr>
     <tr><td>&#x1F34A; French (Français)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>Lederf</td></tr>
     <tr><td>&#x1F34F; German (Deutsch)</td><td>1.8.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Italian (Italiano)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td><a href="https://github.com/bovirus">@bovirus</a> <a href="https://github.com/gokronikos">@gokronikos</a></td></tr>
