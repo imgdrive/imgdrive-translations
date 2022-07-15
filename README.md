@@ -1,6 +1,7 @@
 ## Translations
 Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@yubsoft.com.
 
+&#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 <table>
     <tr><th>Language</th><th>Version</th><th>File</th><th>Maintainer</th></tr>
     <tr><td>&#x1F34F; English</td><td>1.8.2</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
@@ -21,10 +22,6 @@ Not all volunteer translators can translate the latest documents in a timely man
     <tr><td>&#x1F34F; Swedish (Svenska)</td><td>1.8.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
     <tr><td>&#x1F34F; Ukrainian (Українська)</td><td>1.8.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>24cab</td></tr>
 </table>
-
-&#x1F34F; Up to date<br>
-&#x1F34A; Not up to date<br>
-&#x1F34E; Too old
 
 ## How to Translate
 1. Copy file ImgDrive_ENU.ini to Desktop, rename it to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
