@@ -25,7 +25,7 @@
 If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
 
 ## How to contribute
-1. Copy file ImgDrive_ENU.ini to Desktop, rename it to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+1. Download <a href="https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a>, rename to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
     <pre>
     [INFO]
