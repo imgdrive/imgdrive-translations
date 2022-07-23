@@ -19,6 +19,7 @@
     <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 1.8.0</td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
     <tr><td>Ukrainian (Українська)</td><td><a href="ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>&#x1F34F; 1.8.0</td><td>24cab</td></tr>
 </table>
+
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
 If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
