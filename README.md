@@ -1,9 +1,6 @@
-## Translations
-Not all volunteer translators can translate the latest documents in a timely manner, and some of the new content is translated using translation tools such as Google/Bind. If you have fixes, comments or suggestions about a particular translation, please create a pull request or send file to support@yubsoft.com.
-
-&#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
+## Translations for ImgDrive
 <table>
-    <tr><th>Language</th><th>Version</th><th>File</th><th>Maintainer</th></tr>
+    <tr><th>Language</th><th>Version</th><th>File</th><th>Contributors</th></tr>
     <tr><td>&#x1F34F; English</td><td>1.8.2</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>&#x1F34F; Arabic (عربي)</td><td>1.7.9</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_ARA.ini">ImgDrive_ARA.ini</a></td><td>فتحي الداودية</td></tr>
     <tr><td>&#x1F34F; Chinese (简体中文)</td><td>1.8.2</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
@@ -22,8 +19,11 @@ Not all volunteer translators can translate the latest documents in a timely man
     <tr><td>&#x1F34F; Swedish (Svenska)</td><td>1.8.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
     <tr><td>&#x1F34F; Ukrainian (Українська)</td><td>1.8.0</td><td><a href="https://github.com/dvdforge/imgdrive_translations/edit/master/ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>24cab</td></tr>
 </table>
+&#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
-## How to Translate
+If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
+
+## How to contribute
 1. Copy file ImgDrive_ENU.ini to Desktop, rename it to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
     <pre>
@@ -39,6 +39,7 @@ Not all volunteer translators can translate the latest documents in a timely man
     ...
     </pre>
 3. Copy the new language file to %ProgramFiles%\ImgDrive\language\, restart ImgDrive, and then you can change the language in the software settings.
+4. Submit a pull request or send the translation file to support@yubsoft.com.
 
 ## LCID - Locale identifier
 <table>
