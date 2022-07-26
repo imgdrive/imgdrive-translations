@@ -13,7 +13,7 @@
     <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34A; 1.7.9</td><td><a href="http://www.kolanp.com">Jaehyung Lee</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34A; 1.7.9</td><td><a href="https://github.com/Jarek63">@Jarek63</a></td></tr>
     <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34A; 1.7.9</td><td>Marcelo V. Pita</td></tr>
-    <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34A; 1.7.9</td><td><a href="https://github.com/oldman777">@oldman777</a></td></tr>
+    <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34F; 1.8.3</td><td><a href="https://github.com/oldman777">@oldman777</a></td></tr>
     <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34A; 1.7.9</td><td><a href="https://github.com/c-sanchez">@c-sanchez</a></td></tr>
     <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34A; 1.7.9</td><td><a href="https://github.com/MatejGolian">@MatejGolian</a></td></tr>
     <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34A; 1.8.0</td><td><a href="https://github.com/Sopor">@Sopor</a></td></tr>
