@@ -3,7 +3,7 @@
     <tr><th>Language</th><th>File</th><th>Status</th><th>Contributors</th></tr>
     <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 1.9.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="ImgDrive_ARA.ini">ImgDrive_ARA.ini</a></td><td>&#x1F34F; 1.8.6</td><td>فتحي الداودية</td></tr>
-    <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 1.8.6</td><td>Jekovcar</td></tr>
+    <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 1.9.2</td><td>Jekovcar</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 1.9.2</td><td><a href="https://github.com/dvdforge">@dvdforge</a></td></tr>
     <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 1.8.6</td><td>Ranma Kuo</td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34F; 1.8.6</td><td>Sampo Hippeläinen</td></tr>
