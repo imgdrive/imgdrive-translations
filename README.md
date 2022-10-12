@@ -12,7 +12,7 @@
     <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 1.9.4</td><td><a href="https://github.com/bovirus">bovirus</a> <a href="https://github.com/gokronikos">gokronikos</a></td></tr>
     <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34A; 1.8.6</td><td><a href="https://github.com/Pentive">Pentive</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34F; 1.9.4</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
-    <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34A; 1.8.6</td><td><a href="https://github.com/Jarek63">Jarek63</a></td></tr>
+    <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34F; 1.9.4</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
     <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34A; 1.8.6</td><td>Marcelo V. Pita</td></tr>
     <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34A; 1.8.6</td><td><a href="https://github.com/oldman777">oldman777</a></td></tr>
     <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34A; 1.8.6</td><td><a href="https://github.com/c-sanchez">c-sanchez</a></td></tr>
