@@ -24,13 +24,10 @@
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
 
-If you have fixes, comments or suggestions, please create a pull request or send file to support@yubsoft.com.
-
 ## How to contribute
 1. Download <a href="https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a>, rename to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
 2. Translate strings after '=' character
-    <pre>
-    [INFO]
+<pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
     Name=English        ; Language Name
     Version=1.8.0
@@ -39,10 +36,9 @@ If you have fixes, comments or suggestions, please create a pull request or send
     [DIALOG_1]
     0=General
     3=&Language:
-    ...
-    </pre>
+    ...</pre>
 3. Copy the new language file to %ProgramFiles%\ImgDrive\language\, restart ImgDrive, and then you can change the language in the software settings.
-4. Submit a pull request or send the translation file to support@yubsoft.com.
+4. Send the translation file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>. If you would like to participate in the official translation of ImgDrive, please register for a GitHub account and send the account name to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> and we will set you up as collaborator so that you can edit the language file directly online on GitHub.
 
 ## LCID - Locale identifier
 <table>
