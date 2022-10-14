@@ -1,5 +1,5 @@
 ## Translations for ImgDrive
-We need translators from **Japanese**, **Russian**, **Portuguese (Brazil)**, if you are interested in participating, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com, thank you</a>.
+We need new translators for **Japanese**, **Russian**, **Portuguese (Brazil)**, if you want to participate, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com, thank you</a>.
 
 <table>
     <tr><th>Language</th><th>File</th><th>Status</th><th>Contributors</th></tr>
