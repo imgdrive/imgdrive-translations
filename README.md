@@ -1,15 +1,15 @@
 ## Translations for ImgDrive
-We need new translators for **Finnish**, **Japanese**, **Russian**, **Portuguese (Brazil)**, if you want to participate, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com, thank you</a>.
+We need new translators for **Finnish**, **Japanese**, **Russian**, **Portuguese (Brazil)**, if you want to participate, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>.
 
 <table>
-    <tr><th>Language</th><th>File</th><th>Status</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
+    <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="ImgDrive_ARA.ini">ImgDrive_ARA.ini</a></td><td>&#x1F34F; 1.9.7</td><td>فتحي الداودية</td></tr>
     <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 1.9.7</td><td>Jekovcar</td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
-    <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 1.9.7</td><td></td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 1.9.8</td><td></td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
-    <tr><td>French (Français) </td><td><a href="ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
+    <tr><td>French (Français) </td><td><a href="ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
