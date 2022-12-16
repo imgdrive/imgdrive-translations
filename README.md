@@ -1,5 +1,5 @@
 ## Translations for ImgDrive
-We need new translators for **Finnish**, **Japanese**, **Russian**, **Portuguese (Brazil)**, if you want to participate, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>.
+We need new translators for **Finnish**, **Portuguese (Brazil)**, if you want to participate, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>.
 
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
@@ -11,17 +11,17 @@ We need new translators for **Finnish**, **Japanese**, **Russian**, **Portuguese
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
     <tr><td>French (Français) </td><td><a href="ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
-    <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
-    <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
+    <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
+    <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34F; 1.9.8</td><td></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
-    <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
+    <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
     <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
     <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34F; 1.9.8</td><td>KisPavVlad</td></tr>
     <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 1.9.7</td><td>Steven Rogers</td></tr>
-    <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
-    <tr><td>Slovenian (Slovenščina)</td><td><a href="ImgDrive_SLV.ini">ImgDrive_SLV.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
-    <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
-    <tr><td>Ukrainian (Українська)</td><td><a href="ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>&#x1F34F; 1.9.7</td><td>24cab</td></tr>
+    <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
+    <tr><td>Slovenian (Slovenščina)</td><td><a href="ImgDrive_SLV.ini">ImgDrive_SLV.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
+    <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
+    <tr><td>Ukrainian (Українська)</td><td><a href="ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>&#x1F34F; 1.9.8</td><td>24cab</td></tr>
 </table>
 
 &#x1F34F; Up to date   &#x1F34A; Not up to date   &#x1F34E; Too old
