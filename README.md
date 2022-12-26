@@ -10,7 +10,7 @@ We need new translators for **Finnish**, **Portuguese (Brazil)**, if you want to
     <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 1.9.8</td><td></td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
     <tr><td>French (Français) </td><td><a href="ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
-    <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34F; 1.9.8</td><td>Re*Index.(ot_inc)</td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
