@@ -20,7 +20,7 @@ We need new translators for **Finnish**, **Portuguese (Brazil)**, if you want to
     <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 1.9.7</td><td>Steven Rogers</td></tr>
     <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="ImgDrive_SLV.ini">ImgDrive_SLV.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
-    <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
+    <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
     <tr><td>Ukrainian (Українська)</td><td><a href="ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>&#x1F34F; 1.9.9</td><td>24cab</td></tr>
 </table>
 
