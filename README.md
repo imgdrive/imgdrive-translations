@@ -1,5 +1,5 @@
 ## Translations for ImgDrive
-We need new translators for **Finnish**, **Portuguese (Brazil)**, if you want to participate, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>.
+We need new translators for **Finnish**, if you want to participate, please contact <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>.
 
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
@@ -15,7 +15,7 @@ We need new translators for **Finnish**, **Portuguese (Brazil)**, if you want to
     <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/reindex-ot">Re*Index.(ot_inc)</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34F; 1.9.7</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
-    <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
+    <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34E; 1.9.9</td><td><a href="https://github.com/Jukmisael">Jukmisael</a></td></tr>
     <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34F; 1.9.9</td><td>KisPavVlad</td></tr>
     <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 1.9.7</td><td>Steven Rogers</td></tr>
     <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
