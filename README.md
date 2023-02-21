@@ -8,6 +8,7 @@ We need new translators for **Finnish**, if you want to participate, please cont
     <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 1.9.7</td><td>Jekovcar</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 1.9.8</td><td></td></tr>
+    <tr><td>Dutch (Nederlands)</td><td><a href="ImgDrive_NLD.ini">ImgDrive_NLD.ini</a></td><td>&#x1F34F; 1.9.9</td><td>A. Van Landschoot</td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
     <tr><td>French (Français) </td><td><a href="ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
