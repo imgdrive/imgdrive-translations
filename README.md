@@ -15,11 +15,11 @@ We need new translators for **Finnish**, if you want to participate, please cont
     <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34F; 2.0.1</td><td><a href="https://github.com/reindex-ot">Re*Index.(ot_inc)</a></td></tr>
     <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34F; 2.0.1</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
-    <tr><td>Malay (Melayu)    </td><td><a href="ImgDrive_MSL.ini">ImgDrive_MSL.ini</a></td><td>&#x1F34F; 2.0.1</td><td><a href="https://github.com/krunox123">krunox123</a></td></tr>
+    <tr><td>Malay (Melayu)    </td><td><a href="ImgDrive_MSL.ini">ImgDrive_MSL.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/krunox123">krunox123</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
     <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/Jukmisael">Jukmisael</a></td></tr>
     <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34F; 2.0.2</td><td>KisPavVlad</td></tr>
-    <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 1.9.7</td><td>Steven Rogers</td></tr>
+    <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 2.0.2</td><td>Steven Rogers</td></tr>
     <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="ImgDrive_SLV.ini">ImgDrive_SLV.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
     <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 2.0.0</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
@@ -38,6 +38,7 @@ Jaehyung Lee (Korean up to 1.7.2),
 Paulot (French up to 1.7.2),
 Jarosław Elgert (Polish up to 1.7.2),
 Carlos Sánchez (Spanish up to 1.7.2),
+Steven Rogers (Spanish up to 1.9.6),
 
 ## How to contribute
 1. Download <a href="https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a>, rename to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
