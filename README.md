@@ -8,18 +8,19 @@ We need new translators for **Finnish**, if you want to participate, please cont
     <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 1.9.7</td><td>Jekovcar</td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 2.0.2</td><td></td></tr>
+    <tr><td>Czech (Čeština)   </td><td><a href="ImgDrive_CSY.ini">ImgDrive_CSY.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/m-karen">m-karen</a></td></tr>
     <tr><td>Dutch (Nederlands)</td><td><a href="ImgDrive_NLD.ini">ImgDrive_NLD.ini</a></td><td>&#x1F34F; 2.0.1</td><td>A. Van Landschoot</td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
     <tr><td>French (Français) </td><td><a href="ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
     <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34F; 2.0.1</td><td><a href="https://github.com/reindex-ot">Re*Index.(ot_inc)</a></td></tr>
-    <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34F; 2.0.1</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
+    <tr><td>Korean (한국어)      </td><td><a href="ImgDrive_KOR.ini">ImgDrive_KOR.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/VenusGirl">VenusGirl</a></td></tr>
     <tr><td>Malay (Melayu)    </td><td><a href="ImgDrive_MSL.ini">ImgDrive_MSL.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/krunox123">krunox123</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
     <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34F; 1.9.9</td><td><a href="https://github.com/Jukmisael">Jukmisael</a></td></tr>
     <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34F; 2.0.2</td><td>KisPavVlad</td></tr>
-    <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 2.0.2</td><td>Steven Rogers</td></tr>
+    <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 2.0.2</td><td>J.Franco</td></tr>
     <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 1.9.8</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="ImgDrive_SLV.ini">ImgDrive_SLV.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
     <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
