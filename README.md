@@ -3,12 +3,12 @@ We need new translators for **Finnish**, if you want to participate, please cont
 
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 2.0.5</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="ImgDrive_ARA.ini">ImgDrive_ARA.ini</a></td><td>&#x1F34F; 1.9.9</td><td>فتحي الداودية</td></tr>
     <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/jekovcar">jekovcar</a></td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 2.0.5</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 2.0.2</td><td></td></tr>
-    <tr><td>Croatian          </td><td><a href="ImgDrive_HRV.ini">ImgDrive_HRV.ini</a></td><td>&#x1F34F; 2.0.2</td><td>Luči Goleš, Zagreb</td></tr>
+    <tr><td>Croatian (Hrvatski jezik)</td><td><a href="ImgDrive_HRV.ini">ImgDrive_HRV.ini</a></td><td>&#x1F34F; 2.0.2</td><td>Luči Goleš, Zagreb</td></tr>
     <tr><td>Czech (Čeština)   </td><td><a href="ImgDrive_CSY.ini">ImgDrive_CSY.ini</a></td><td>&#x1F34F; 2.0.2</td><td><a href="https://github.com/m-karen">m-karen</a></td></tr>
     <tr><td>Dutch (Nederlands)</td><td><a href="ImgDrive_NLD.ini">ImgDrive_NLD.ini</a></td><td>&#x1F34F; 2.0.1</td><td>A. Van Landschoot</td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
@@ -42,13 +42,14 @@ Jarosław Elgert (Polish up to 1.7.2),
 Carlos Sánchez (Spanish up to 1.7.2),
 Steven Rogers (Spanish up to 1.9.6),
 
-## How to contribute
-1. Download <a href="https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a>, rename to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.
+## How to translate
+1. Download <a href="https://raw.githubusercontent.com/dvdforge/imgdrive_translations/master/ImgDrive_ENU.ini">ImgDrive_ENU.ini</a>, rename to ImgDrive_**[Language code]**.ini, the **Language code** can be found in **LCID - Locale identifier** below.<br /><br />
+We recommend set the file encoding to UTF-8 BOM. Our build script automatically converts UTF-8 format to UTF-16 LE on release.
 2. Translate strings after '=' character
 <pre>    [INFO]
     ID=0x0409           ; LCID (Locale identifier)
     Name=English        ; Language Name
-    Version=1.8.0
+    Version=2.0.0
     Author=             ; Translator
 
     [DIALOG_1]
@@ -56,7 +57,7 @@ Steven Rogers (Spanish up to 1.9.6),
     3=&Language:
     ...</pre>
 3. Copy the new language file to %ProgramFiles%\ImgDrive\language\, restart ImgDrive, and then you can change the language in the software settings.
-4. Send the translation file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>. If you would like to participate in the official translation of ImgDrive, please register for a GitHub account and send the account name to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a> and we will set you up as collaborator so that you can edit the language file directly online on GitHub.
+4. Send file to <a herf="mailto:support@yubsoft.com">support@yubsoft.com</a>. If you want to update files more conveniently, send us your GitHub username as well, once you're set up as a collaborator, you'll be able to edit file directly online.
 
 ## LCID - Locale identifier
 <table>
