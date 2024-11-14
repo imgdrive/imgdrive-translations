@@ -1,10 +1,10 @@
 ## Translations for ImgDrive
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
-    <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
+    <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="ImgDrive_ARA.ini">ImgDrive_ARA.ini</a></td><td>&#x1F34A; 1.9.9</td><td>فتحي الداودية</td></tr>
     <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 2.1.2</td><td><a href="https://github.com/jekovcar">jekovcar</a></td></tr>
-    <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
+    <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 2.1.2</td><td></td></tr>
     <tr><td>Croatian (Hrvatski jezik)</td><td><a href="ImgDrive_HRV.ini">ImgDrive_HRV.ini</a></td><td>&#x1F34F; 2.1.2</td><td>Luči Goleš, Zagreb</td></tr>
     <tr><td>Czech (Čeština)   </td><td><a href="ImgDrive_CSY.ini">ImgDrive_CSY.ini</a></td><td>&#x1F34F; 2.1.0</td><td><a href="https://github.com/m-karen">m-karen</a></td></tr>
