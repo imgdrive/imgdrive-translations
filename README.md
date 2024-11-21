@@ -3,7 +3,8 @@
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>Arabic (عربي)     </td><td><a href="ImgDrive_ARA.ini">ImgDrive_ARA.ini</a></td><td>&#x1F34A; 1.9.9</td><td>فتحي الداودية</td></tr>
-    <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 2.1.2</td><td><a href="https://github.com/jekovcar">jekovcar</a></td></tr>
+    <tr><td>Belarusian (Беларусь)</td><td><a href="ImgDrive_BEL.ini">ImgDrive_BEL.ini</a></td><td>&#x1F34F; 2.2.0</td><td>Tuteishy Habitant</td></tr>
+    <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/jekovcar">jekovcar</a></td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
     <tr><td>Chinese (正體中文)</td><td><a href="ImgDrive_CHT.ini">ImgDrive_CHT.ini</a></td><td>&#x1F34F; 2.1.2</td><td></td></tr>
     <tr><td>Croatian (Hrvatski jezik)</td><td><a href="ImgDrive_HRV.ini">ImgDrive_HRV.ini</a></td><td>&#x1F34F; 2.1.2</td><td>Luči Goleš, Zagreb</td></tr>
@@ -11,7 +12,7 @@
     <tr><td>Dutch (Nederlands)</td><td><a href="ImgDrive_NLD.ini">ImgDrive_NLD.ini</a></td><td>&#x1F34F; 2.1.2</td><td>A. Van Landschoot</td></tr>
     <tr><td>Finnish (Suomi)   </td><td><a href="ImgDrive_FIN.ini">ImgDrive_FIN.ini</a></td><td>&#x1F34E; 1.8.6</td><td></td></tr>
     <tr><td>French (Français) </td><td><a href="ImgDrive_FRA.ini">ImgDrive_FRA.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/Lederf">Lederf</a></td></tr>
-    <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
+    <tr><td>German (Deutsch)  </td><td><a href="ImgDrive_DEU.ini">ImgDrive_DEU.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/dvdforge">dvdforge</a></td></tr>
     <tr><td>Indonesian (Indonesia)</td><td><a href="ImgDrive_IND.ini">ImgDrive_IND.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/naturbrilian">Lieba Natur Brilian</a></td></tr>
     <tr><td>Italian (Italiano)</td><td><a href="ImgDrive_ITA.ini">ImgDrive_ITA.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/bovirus">bovirus</a></td></tr>
     <tr><td>Japanese (日本語) </td><td><a href="ImgDrive_JPN.ini">ImgDrive_JPN.ini</a></td><td>&#x1F34F; 2.1.2</td><td><a href="https://github.com/reindex-ot">Re*Index.(ot_inc)</a></td></tr>
