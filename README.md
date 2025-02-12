@@ -20,6 +20,7 @@
     <tr><td>Malay (Melayu)    </td><td><a href="ImgDrive_MSL.ini">ImgDrive_MSL.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/krunox123">krunox123</a></td></tr>
     <tr><td>Polish (Polski)   </td><td><a href="ImgDrive_PLK.ini">ImgDrive_PLK.ini</a></td><td>&#x1F34F; 2.1.9</td><td><a href="https://github.com/xesarni">xesarni</a></td></tr>
     <tr><td>Portuguese (Brazil)</td><td><a href="ImgDrive_PTB.ini">ImgDrive_PTB.ini</a></td><td>&#x1F34F; 2.1.2</td><td><a href="https://github.com/Jukmisael">Jukmisael</a> Felipe</td></tr>
+    <tr><td>Russian (Русский)  </td><td><a href="ImgDrive_RUS.ini">ImgDrive_RUS.ini</a></td><td>&#x1F34F; 2.2.0</td><td>Seryi3</td></tr>
     <tr><td>Romanian (Română)  </td><td><a href="ImgDrive_ROM.ini">ImgDrive_ROM.ini</a></td><td>&#x1F34F; 2.1.2</td><td>Ciornea Lucian - Leonte</td></tr>
     <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 2.2.0</td><td>J.Franco</td></tr>
     <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 2.1.2</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
