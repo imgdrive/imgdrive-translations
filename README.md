@@ -2,6 +2,7 @@
 <table>
     <tr><th>Language</th><th>File</th><th>Version</th><th>Authors</th></tr>
     <tr><td>English           </td><td><a href="ImgDrive_ENU.ini">ImgDrive_ENU.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
+    <tr><td>Arabic (عربي)        </td><td><a href="ImgDrive_ARL.ini">ImgDrive_ARL.ini</a></td><td>&#x1F34F; 2.2.0</td><td>فتحي الداودية</td></tr>
     <tr><td>Belarusian (Беларусь)</td><td><a href="ImgDrive_BEL.ini">ImgDrive_BEL.ini</a></td><td>&#x1F34F; 2.2.0</td><td>Tuteishy Habitant</td></tr>
     <tr><td>Bulgarian (Български)</td><td><a href="ImgDrive_BGR.ini">ImgDrive_BGR.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/jekovcar">jekovcar</a></td></tr>
     <tr><td>Chinese (简体中文)</td><td><a href="ImgDrive_CHS.ini">ImgDrive_CHS.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/imgdrive">imgdrive</a></td></tr>
