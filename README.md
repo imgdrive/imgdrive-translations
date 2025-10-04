@@ -25,7 +25,7 @@
     <tr><td>Slovak (Slovenčina)</td><td><a href="ImgDrive_SKY.ini">ImgDrive_SKY.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/MatejGolian">MatejGolian</a></td></tr>
     <tr><td>Slovenian (Slovenščina)</td><td><a href="ImgDrive_SLV.ini">ImgDrive_SLV.ini</a></td><td>&#x1F34F; 2.1.2</td><td><a href="https://github.com/JadranR">JadranR</a></td></tr>
     <tr><td>Spanish (Español)  </td><td><a href="ImgDrive_ESN.ini">ImgDrive_ESN.ini</a></td><td>&#x1F34F; 2.2.0</td><td>J.Franco</td></tr>
-    <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 2.2.3</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
+    <tr><td>Swedish (Svenska)  </td><td><a href="ImgDrive_SVE.ini">ImgDrive_SVE.ini</a></td><td>&#x1F34F; 2.2.0</td><td><a href="https://github.com/Sopor">Sopor</a></td></tr>
     <tr><td>Turkish (Türkçe)   </td><td><a href="ImgDrive_TUR.ini">ImgDrive_TUR.ini</a></td><td>&#x1F34F; 2.2.0</td><td>Fahri Avcı</td></tr>
     <tr><td>Ukrainian (Українська)</td><td><a href="ImgDrive_UKR.ini">ImgDrive_UKR.ini</a></td><td>&#x1F34F; 2.1.0</td><td>24cab</td></tr>
 </table>
